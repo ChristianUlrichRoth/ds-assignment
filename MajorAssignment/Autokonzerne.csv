@@ -1,4 +1,4 @@
-﻿Konzern;Marke
+﻿company;brand
 VW-Konzern;volkswagen
 VW-Konzern;audi
 VW-Konzern;bentley
@@ -27,7 +27,7 @@ General Motors-Konzern;pontiac
 General Motors-Konzern;hummer
 General Motors-Konzern;saab
 General Motors-Konzern;daewoo
-Daimler-Konzern;mercedes
+Daimler-Konzern;mercedes_benz
 Daimler-Konzern;smart
 Renault-Nissan-Gruppe;renault
 Renault-Nissan-Gruppe;dacia
@@ -36,7 +36,7 @@ Renault-Nissan-Gruppe;infiniti
 Renault-Nissan-Gruppe;opel
 Renault-Nissan-Gruppe;mitsubishi
 Renault-Nissan-Gruppe;lada
-PSA Peugeot Citroen-Konzern; peugeot
+PSA Peugeot Citroen-Konzern;peugeot
 PSA Peugeot Citroen-Konzern;citroen
 Toyota-Konzern;toyota
 Toyota-Konzern;lexus
